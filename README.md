@@ -1,7 +1,6 @@
 # Eigen values of k-Toeplitz tridagonal matrices
-  This code provides a method to compute the eigen values of k-toeplitz matrix with less computational effort and more accuracy.Diagonal,upper diagonal and lower diagonal chains are given as input here.
-  Our aim is to find eigen values of tridiagonal k-Toeplitz matrices .First, we reduce the
-characteristic equations of such matrices of increasing dimensions into a three-term polynomial
+This code provides a method to compute the eigen values of k-toeplitz matrix with less computational effort and more accuracy.Eigen values of the k-toeplitz matrix is approximated using the chebyshev polynomials.Diagonal,upper diagonal and lower diagonal chains of the k-toeplitz matrix are given as the inputs in the code.
+First, we reduce the characteristic equations of such matrices of increasing dimensions into a three-term polynomial
 recurrence relation with a k th order coefficient polynomial. We establish existence of a limiting
 spectrum, nature of its convergence, and a continuous support along with at most 2k distinct
 points containing the limiting spectra. The k curves traced due to recurrence conditions on the
@@ -16,4 +15,7 @@ for any given n. General solutions for the evaluation are motivated by large com
 efforts and errors in the iterative numerical methods. Later, we apply this solution to the
 eigenvalue problems represented by tridiagonal matrices with a periodicity k in its entries,
 providing a more accurate numerical method for evaluation of spectra of chains and a
-reduction in computational effort from O(n2) to O(n).
+reduction in computational effort from O(n^2) to O(n).
+The major advantages of this method is reducing the computational effort from O(n2k2) to
+O(nk3).
+
