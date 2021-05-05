@@ -4,4 +4,5 @@ First, we reduce the characteristic equations of such matrices of increasing dim
 reduction in computational effort from O(n^2) to O(n).
                Here diag_entries.txt,upper_diag.txt,lower_diag.txt are the 1 D arrays which should be given as input.
 
-# 
+# Periodic tight binding models
+  Periodic tight binding hamiltonian with fixed boundary conditions are k-toeplitz matrices.Energy eigen values of periodic tight binding models can be found out with more accurately and less computational effort by chebyshev polynomial approximation.
