@@ -21,3 +21,6 @@ Here diag_entries.txt,upper_diag.txt,lower_diag.txt are the 1 D arrays which sho
 Figure of One dimensional free-free lattice(Di-atomic lattice)
 
 ![chain_free_free](https://user-images.githubusercontent.com/75409178/167105574-7e83bdf3-33fc-4382-95c3-d1da323b2ac4.png)
+
+Two dimensional free-free lattice(Diatomic lattice)
+![free_free_2d](https://user-images.githubusercontent.com/75409178/167106568-e2d10282-3113-4198-9ba4-e8426ee1a598.png)
