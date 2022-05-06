@@ -8,6 +8,9 @@ This code provides a method to compute the eigen values of k-toeplitz matrix wit
 First, we reduce the characteristic equations of such matrices of increasing dimensions into a three-term polynomial recurrence relation with a k th order coefficient polynomial. We establish existence of a limiting spectrum, nature of its convergence, and a continuous support along with at most 2k distinct points containing the limiting spectra. The k curves traced due to recurrence conditions on the k th order coefficient polynomial converge tightly with the limiting eigenvalue distribution for dimensions significantly larger than k. The coefficients of this polynomial also establish the necessary and sufficient conditions for any two tridiagonal k-Toeplitz matrices of same period k,to have the same limiting spectrum.We need to show the existence and nature of convergence to a limiting set of roots for polynomials in a three-term recurrence of the form pn+1(z) = Qk(z)pn(z) + γpn−1(z) as n →∞, where the coefficient Qk(z) is a kth degree polynomial, and z,γ ∈C. We extend these results to relations for numerically approximating roots of such polynomialsfor any given n. General solutions for the evaluation are motivated by large computational efforts and errors in the iterative numerical methods. Later, we apply this solution to the eigenvalue problems represented by tridiagonal matrices with a periodicity k in its entries, providing a more accurate numerical method for evaluation of spectra of chains and a
 reduction in computational effort from O(n^2) to O(n).
 Here diag_entries.txt,upper_diag.txt,lower_diag.txt are the 1 D arrays which should be given as input.
+  
+
+Base Research paper: [Base_paper.pdf](https://github.com/athira-dot/Periodic_tight_binding_models/files/8638889/Base_paper.pdf)
 </p>
 
 
@@ -31,4 +34,4 @@ Figure of Two dimensional free-free lattice(both the chains are Di-atomic)
 
 
 
-Base paper: [Base_paper.pdf](https://github.com/athira-dot/Periodic_tight_binding_models/files/8638889/Base_paper.pdf)
+
