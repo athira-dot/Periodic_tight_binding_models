@@ -13,5 +13,5 @@ Here diag_entries.txt,upper_diag.txt,lower_diag.txt are the 1 D arrays which sho
 <h2>Periodic tight binding models</h2>
 
 <p align="justify">
-  Periodic tight binding hamiltonian with free-free boundary conditions are k-toeplitz matrices.Energy eigen values of such periodic tight binding models can be found out with more accurately and less computational effort by chebyshev polynomial approximation.
+  Periodic tight binding hamiltonian with free-free boundary conditions are k-toeplitz matrices.Energy eigen values of such periodic tight binding models can be found out with more accurately and less computational effort by chebyshev polynomial approximation.Here,We are able to provide the energy eigen spectrum for periodic tight binding model with free-free boundary condition.
 </p>
