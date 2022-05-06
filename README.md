@@ -28,4 +28,4 @@ Figure of Two dimensional free-free lattice(both the chains are Di-atomic)
 ![free_free_lattice](https://user-images.githubusercontent.com/75409178/167107020-85028363-3298-4976-90c7-6b1ed13a58c2.png)
 
 
-[Base_paper.pdf](https://github.com/athira-dot/Periodic_tight_binding_models/files/8638889/Base_paper.pdf)
+Base paper: [Base_paper.pdf](https://github.com/athira-dot/Periodic_tight_binding_models/files/8638889/Base_paper.pdf)
