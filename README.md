@@ -1,4 +1,4 @@
-[Vignettes_for_Success_in_Academia.pdf](https://github.com/athira-dot/Periodic_tight_binding_models/files/8638883/Vignettes_for_Success_in_Academia.pdf)
+
 <h2> Eigen values of k-Toeplitz tridagonal matrices</h2>
 
 
