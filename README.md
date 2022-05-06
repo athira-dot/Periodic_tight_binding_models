@@ -22,5 +22,5 @@ Figure of One dimensional free-free lattice(Di-atomic lattice)
 
 ![chain_free_free](https://user-images.githubusercontent.com/75409178/167105574-7e83bdf3-33fc-4382-95c3-d1da323b2ac4.png)
 
-Two dimensional free-free lattice(Diatomic lattice)
+Figure of Two dimensional free-free lattice(Di-atomic lattice)
 ![free_free_lattice](https://user-images.githubusercontent.com/75409178/167107020-85028363-3298-4976-90c7-6b1ed13a58c2.png)
